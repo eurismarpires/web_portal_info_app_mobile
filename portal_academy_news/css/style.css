@@ -171,13 +171,17 @@ header .large-8 {
 	top: 80px;
 	width: 208px
 }
-
+.bloco{
+	margin: 40px 0 40px 0;
+	width:20%;
+	min-width:330px;
+	display: inline-block;
+}
 .download-btn {
 	/*background-color: #ff6000;*/
 	padding:31px 95px;
-	/*background-image:url(../img/button.png);*/
-	background-image:url(../img/pt-br_generic_rgb_wo_60.png);
-	
+	background-image:url(../img/button.png);
+	/*background-image:url(../img/pt-br_generic_rgb_wo_60.png);	*/
 	float:left;
 	margin:20px 0 0 0;
 	border-radius:3px;
